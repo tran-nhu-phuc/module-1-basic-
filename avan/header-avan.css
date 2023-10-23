@@ -1,0 +1,12 @@
+header div i{
+    color: orange;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    align-items: center;
+    padding: 10px;
+    color: #eee0e0;
+    font-size: 17px;
+}
